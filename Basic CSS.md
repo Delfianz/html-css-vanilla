@@ -9,12 +9,10 @@
 |                   | 1.6 Box Model                                              | 5 Menit    |
 |                   | 1.7 Display dan Layout Dasar                               | 5 Menit    |
 |                   | 1.8 Pseudo Class dan Pseudo Element                        | 5 Menit    |
-|                   | 1.9 Semantic HTML                                          | 5 Menit    |
-|                   | 1.10 Latihan HTML 1 : Membuat halaman profil sederhana     | 8 Menit    |
-|                   | 1.11 Latihan HTML 1 : Halaman dengan Navigasi dan Link     | 8 Menit    |
-|                   | 1.12 Latihan HTML 1 : Tabel Data Siswa                     | 8 Menit    |
-|                   | 1.13 Latihan HTML 1 : Form Pendaftaran                     | 8 Menit    |
-|                   | 1.14 Challenge HTML 1 : Website Portofolio Sederhana       | 16 Menit   |
+|                   | 1.9 Latihan  CSS 0 : Styling Paragraf                      | 15 Menit   |
+|                   | 1.11 Latihan  CSS 0 : Styling Judul                        | 15 Menit   |
+|                   | 1.12 Latihan CSS 0 : Box Model                             | 15 Menit   |
+|                   | 1.13 Challenge: Membuat Halaman Website dengan CSS         | 16 Menit   |
 |                   | 2.1 Inline vs Block Element                                | 8 Menit    |
 |                   | 2.2 Elemen Media                                           | 10 Menit   |
 |                   | 2.3 Form Lanjutan                                          | 15 Menit   |
