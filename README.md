@@ -48,5 +48,54 @@ HTML (HyperText Markup Language) adalah bahasa markup standar untuk membuat hala
 3. Tulis kode HTML
 4. Simpan dan buka di browser
 
+## 2) Struktur dasar html 
+
+Setiap dokumen HTML memiliki struktur dasar seperti ini:
+
+```html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Judul Halaman</title>
+</head>
+<body>
+    <!-- Konten halaman web di sini -->
+    <h1>Selamat Datang!</h1>
+    <p>Ini adalah paragraf pertama saya.</p>
+</body>
+</html>
+```
+
+### Penjelasan Struktur
+
+| Tag | Fungsi |
+|-----|--------|
+| `<!DOCTYPE html>` | Mendeklarasikan dokumen sebagai HTML5 |
+| `<html>` | Elemen root dari halaman HTML |
+| `<head>` | Berisi metadata (info tentang dokumen) |
+| `<meta charset>` | Menentukan encoding karakter |
+| `<meta viewport>` | Mengatur tampilan di perangkat mobile |
+| `<title>` | Judul yang muncul di tab browser |
+| `<body>` | Berisi konten yang ditampilkan di halaman |
+
+### Anatomi Tag HTML
+
+```html
+<tagname attribute="value">Konten</tagname>
+```
+
+- **Opening tag**: `<tagname>`
+- **Closing tag**: `</tagname>`
+- **Attribute**: Informasi tambahan tentang elemen
+- **Content**: Isi di antara opening dan closing tag
+
+**Self-closing tag** (tidak memiliki konten):
+```html
+<img src="gambar.jpg" alt="Deskripsi" />
+<br />
+<hr />
+```
 
 
