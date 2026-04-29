@@ -28,6 +28,25 @@
 |                   | 2.11 Latihan HTML 2 : Perbaiki Aksesibilitas               | 10 Menit   |
 |                   | 2.12 Tantangan HTML 2 : Website Blog Pribadi yang Aksesibel| 45 Menit   |
 
-## 1) Pendahuluan HTML
+## 1) Pendahuluan HTML 
+### Apa itu HTML?
+HTML (HyperText Markup Language) adalah bahasa markup standar untuk membuat halaman web. HTML mendeskripsikan struktur konten pada halaman web menggunakan elemen-elemen yang disebut **tag**.
+
+### Mengapa Belajar HTML?
+- **Fondasi Web Development** - Semua website dibangun dengan HTML
+- **Mudah Dipelajari** - Sintaks sederhana dan mudah dipahami
+- **Universal** - Didukung oleh semua browser
+- **Pintu Masuk** - Langkah pertama untuk belajar CSS dan JavaScript
+
+### Tools yang Dibutuhkan
+1. **Text Editor** - VS Code, Sublime Text, atau Notepad++
+2. **Web Browser** - Chrome, Firefox, Edge, atau Safari
+
+### Cara Membuat File HTML
+1. Buka text editor
+2. Buat file baru dengan ekstensi `.html` (contoh: `index.html`)
+3. Tulis kode HTML
+4. Simpan dan buka di browser
+
 
 
