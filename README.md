@@ -28,6 +28,6 @@
 |                   | 2.11 Latihan HTML 2 : Perbaiki Aksesibilitas               | 10 Menit   |
 |                   | 2.12 Tantangan HTML 2 : Website Blog Pribadi yang Aksesibel| 45 Menit   |
 
-1) Pendahuluan HTML
+## 1) Pendahuluan HTML
 
 
