@@ -1,4 +1,4 @@
-# html-css-Javascript Vanilla ES6 Modules
+# Basic HTML
 | Objective         | Key Result                                                 |  Time Goal |
 |-------------------|------------------------------------------------------------|------------|
 | HTML              | 1.1 Pendahuluan HTML                                       | 1 Menit    |
@@ -28,5 +28,6 @@
 |                   | 2.11 Latihan HTML 2 : Perbaiki Aksesibilitas               | 10 Menit   |
 |                   | 2.12 Tantangan HTML 2 : Website Blog Pribadi yang Aksesibel| 45 Menit   |
 
+1) Pendahuluan HTML
 
 
