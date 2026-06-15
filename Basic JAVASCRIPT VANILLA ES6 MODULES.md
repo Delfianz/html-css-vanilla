@@ -3,7 +3,7 @@
 |-----------------------------------|------------------------------------------------------------------------------|------------|
 | JAVASCRIPT VANILLA ES6 MODULES    | 1.1 Pendahuluan                                                              | 1 Menit    |
 |                                   | 1.2 Konsep Dasar ES6 Modules                                                 | 5 Menit    |
-|                                   | 1.3 Export & Import                                                          | 10 Menit   |
+|                                   | 1.3 Export & Import                                                          | 30 Menit   |
 |                                   | 1.4 Jenis Export                                                             | 10 Menit   |
 |                                   | 1.5 Penggunaan di Browser                                                    | 10 Menit   |
 |                                   | 1.6 Struktur Project Modular                                                 | 15 Menit   |
